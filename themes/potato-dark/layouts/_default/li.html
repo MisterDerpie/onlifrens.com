@@ -1,4 +1,12 @@
 <article class="c-article p-list-article">
+  <div class="l-header">
+    {{ partial "menu.html" . }}
+    {{ with .Site.Params.subtitle }}
+    <p class="p-subtitle">
+      {{ . }}
+    </p>
+    {{ end }}
+  </div>
   <div class="c-article__summary">
     {{ .Content }}
   </div>

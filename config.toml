@@ -13,6 +13,21 @@ theme = ["potato-dark", "hugo-shortcode-gallery"]
   logo = "/icons/pepe.png"
   favicon = "/icons/favicon.ico"
 
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    identifier = "theme"
+    name = "Theme"
+    weight = 3
+
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 80
