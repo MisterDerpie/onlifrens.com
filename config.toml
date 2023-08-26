@@ -4,7 +4,7 @@ languageCode = "en-us"
 Title = "Your site title"
 # Copyright notice. This is displayed in the footer.
 copyright = "&copy; Copyright notice"
-theme = "potato-dark"
+theme = ["potato-dark", "hugo-shortcode-gallery"]
 
 [params]
   paginate = 10
