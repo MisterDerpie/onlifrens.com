@@ -157,7 +157,6 @@ img {
 
 .l-header {
     display: block;
-    padding: 0px 0 36px 0;
     text-align: center
 }
 
@@ -249,7 +248,8 @@ img {
 .c-article__summary {
     font-size: 1.4rem;
     color: #080604;
-    line-height: 1.57
+    line-height: 1.57;
+    padding: 15px;
 }
 
 .c-article__summary p {
@@ -439,7 +439,6 @@ img {
     background:	#080604;
     padding-top: 12px;
     padding-bottom: 14px;
-    margin-bottom: 4rem;
     display: inline-block;
     border-left: 1rem solid #ED5276cc;
 }
