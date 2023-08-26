@@ -1,7 +1,7 @@
 # Welcome to OnliFrens
 
 A very warm welcome, dear _fren_.
-Glad to have you hear among us, enjoying the _frenship_ in the _frenworld_.
+Glad to have you here among us, enjoying the _frenship_ in the _frenworld_.
 
 On this website, a collection of memes about [Pepe the Frog](https://en.wikipedia.org/wiki/Pepe_the_Frog) and/or
 [Apu Apustaja](https://knowyourmeme.com/memes/apu-apustaja) can be found.
