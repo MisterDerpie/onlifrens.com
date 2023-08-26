@@ -10,8 +10,8 @@ theme = ["potato-dark", "hugo-shortcode-gallery"]
   # footer
   github = "MisterDerpie"
   linkedin = "matthias-doepmann"
-  logo = "/icons/pepe.png"
-  favicon = "/icons/favicon.ico"
+  logo = "/images/pepe.png"
+  favicon = "/images/favicon.ico"
 
 [[menu.main]]
     name = "About"
