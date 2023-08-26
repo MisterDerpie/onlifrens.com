@@ -576,14 +576,8 @@ img {
 }
 
 .p-article__body {
-    margin: 40px 0 30px;
+    padding: 15px;
     word-wrap: break-word
-}
-
-@media(min-width:640px) {
-    .p-article__body {
-        margin: 40px 0 60px
-    }
 }
 
 .p-article__body img[data-action^=zoom]:hover {
